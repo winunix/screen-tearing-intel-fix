@@ -1,0 +1,9 @@
+Package: screen-tearing-intel-fix
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Description: Fix Screen Tearing on Intel GPU Machines.
+ Add Confs files to fix screen tearing of Intel graphics cards.
